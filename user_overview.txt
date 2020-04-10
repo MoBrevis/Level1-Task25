@@ -1,0 +1,85 @@
+Total number of registered users = 6
+Total number of tasks = 12
+
+Dante:
+Percentage of tasks assigned is 100%
+Percentage of completed tasks is 6%
+Percentage of incompleted tasks is 50%
+Percentage of tasks that are incomplete and overdue is 133%
+
+ntage of the tasks assigned to Maurice completed is 50%
+The percentage of the tasks assigned to Maurice that must still be completed is 50%
+The percentage of the tasks assigned to Maurice have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Maurice is 12
+The percentage of the total number of tasks has been assigned to Maurice is 100%
+The percentage of the tasks assigned to Maurice completed is 50%
+The percentage of the tasks assigned to Maurice that must still be completed is 50%
+The percentage of the tasks assigned to Maurice have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Maurice is 12
+The percentage of the total number of tasks has been assigned to Maurice is 100%
+The percentage of the tasks assigned to Maurice completed is 50%
+The percentage of the tasks assigned to Maurice that must still be completed is 50%
+The percentage of the tasks assigned to Maurice have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Mushtaq is 12
+The percentage of the total number of tasks has been assigned to Mushtaq is 100%
+The percentage of the tasks assigned to Mushtaq completed is 50%
+The percentage of the tasks assigned to Mushtaq that must still be completed is 50%
+The percentage of the tasks assigned to Mushtaq have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Mushtaq is 12
+The percentage of the total number of tasks has been assigned to Mushtaq is 100%
+The percentage of the tasks assigned to Mushtaq completed is 50%
+The percentage of the tasks assigned to Mushtaq that must still be completed is 50%
+The percentage of the tasks assigned to Mushtaq have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Mushtaq is 12
+The percentage of the total number of tasks has been assigned to Mushtaq is 100%
+The percentage of the tasks assigned to Mushtaq completed is 50%
+The percentage of the tasks assigned to Mushtaq that must still be completed is 50%
+The percentage of the tasks assigned to Mushtaq have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Hishaam is 12
+The percentage of the total number of tasks has been assigned to Hishaam is 100%
+The percentage of the tasks assigned to Hishaam completed is 50%
+The percentage of the tasks assigned to Hishaam that must still be completed is 50%
+The percentage of the tasks assigned to Hishaam have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Hishaam is 12
+The percentage of the total number of tasks has been assigned to Hishaam is 100%
+The percentage of the tasks assigned to Hishaam completed is 50%
+The percentage of the tasks assigned to Hishaam that must still be completed is 50%
+The percentage of the tasks assigned to Hishaam have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Hishaam is 12
+The percentage of the total number of tasks has been assigned to Hishaam is 100%
+The percentage of the tasks assigned to Hishaam completed is 50%
+The percentage of the tasks assigned to Hishaam that must still be completed is 50%
+The percentage of the tasks assigned to Hishaam have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Dante is 12
+The percentage of the total number of tasks has been assigned to Dante is 100%
+The percentage of the tasks assigned to Dante completed is 50%
+The percentage of the tasks assigned to Dante that must still be completed is 50%
+The percentage of the tasks assigned to Dante have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Dante is 12
+The percentage of the total number of tasks has been assigned to Dante is 100%
+The percentage of the tasks assigned to Dante completed is 50%
+The percentage of the tasks assigned to Dante that must still be completed is 50%
+The percentage of the tasks assigned to Dante have not yet been completed and are overdue is 133%
+
+The total number of tasks assigned to Dante is 12
+The percentage of the total number of tasks has been assigned to Dante is 100%
+The percentage of the tasks assigned to Dante completed is 50%
+The percentage of the tasks assigned to Dante that must still be completed is 50%
+The percentage of the tasks assigned to Dante have not yet been completed and are overdue is 133%
+
+nte that must still be completed is 50%
+
+The percentage of the tasks assigned to Dante have not yet been completed and are overdue is 133%
+
+ed and are overdue is 133%
+
